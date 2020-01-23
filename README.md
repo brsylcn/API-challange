@@ -16,4 +16,4 @@ Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 ## ANALYSIS & CONCLUSIONS
 
-![Image description](http://localhost:8888/view/Desktop/API%20Homework/starter_code/WeatherPy/01_MaxTemp_Latitude.png)
+![Image description]()
