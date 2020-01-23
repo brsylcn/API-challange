@@ -17,7 +17,10 @@ Wind Speed (mph) vs. Latitude
 ## ANALYSIS & CONCLUSIONS
 
 
+<img src="https://github.com/brsylcn/API-challange/blob/master/WeatherPy/03_Cloudiness_Latitude.png"
+     alt="Image 3"
+     style="float: left; margin-right: 10px;" />
 
-![Image 3](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/01_MaxTemp_Latitude.png)
+![Image 3](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/03_Cloudiness_Latitude.png)
 
 When we look at the scatter plot below, it is almost imposible to see any corolation between cloudiness and latitude. Simply, we can assume that the amount of cloudiness is independent from that comparision.
