@@ -16,11 +16,11 @@ Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 ## ANALYSIS & CONCLUSIONS
 ##### MAX TEMPERATURE Vs. LATIDUTE
-When we look at the plot bar, we see a trend that being located closer to the equator increases the maximum temperature since the cities located at the equator (latitude = 0) have high temperatures. If we have a closer look we observe some cities in both Northern and Southern Hemisphere with a maximum temperature. Those cities are at latitude = 20, which are not located at the equator. This plots tell us that distance to the equator is not the only factor for determining the maximum temperature.
+When we look at the plot bar, we can realize that the trand located closer to the equator (lat=0) gets increased temperature. However there are some exceptions if we check the cities are not located on the equator. On both Southern and Northern Hemispehere have some cities havin higher temperature than the cities are located on 0 latitude. That basically means distance from the equator is not only reason for high temperature.
 
-![Image 3](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/03_Cloudiness_Latitude.png)
+![Max_Temp](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/01_MaxTemp_Latitude.png)
 
 ###### CLOUDINESS Vs. LATITUDE
 When we look at the scatter plot below, it is almost imposible to see any corolation between cloudiness and latitude. Simply, we can assume that the amount of cloudiness is independent from that comparision.
 
-![Image 3](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/03_Cloudiness_Latitude.png)
+![Humid](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/03_Cloudiness_Latitude.png)
