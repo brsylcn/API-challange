@@ -1,5 +1,5 @@
 # WEATHER DATA ANALYZE
-***Baris Yalcin- Southern Methodist University***
+***Baris Yalcin- Data Science Bootcamp Student- Southern Methodist University***
 ## EXECUTIVE SUMMARY
 599 raws of data is available. 43 raws of data is ignored since there are missing values. 556 raws of data that includes cities with their maximum temperature, humidity, cloudiness and wind speed values. Data is retrieved on 01/19/2020.
 ## DATA LIMITATIONS
@@ -16,7 +16,7 @@ Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 ## ANALYSIS & CONCLUSIONS
-##### MAX TEMPERATURE Vs. LATIDUTE
+##### MAX TEMPERATURE Vs. LATITUDE
 When we look at the plot bar, we can realize that the trand located closer to the equator (lat=0) gets increased temperature. However there are some exceptions if we check the cities are not located on the equator. On both Southern and Northern Hemispehere have some cities havin higher temperature than the cities are located on 0 latitude. That basically means distance from the equator is not only reason for high temperature.
 
 ![Max_Temp](https://github.com/brsylcn/API-challange/blob/master/WeatherPy/01_MaxTemp_Latitude.png)
