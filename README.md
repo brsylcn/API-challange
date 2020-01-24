@@ -1,4 +1,4 @@
-# WEATHER DATA ANALYZE
+# WEATHER DATA ANALYSIS
 ***Baris Yalcin- Data Science Bootcamp Student- Southern Methodist University***
 ## EXECUTIVE SUMMARY
 599 raws of data is available. 43 raws of data is ignored since there are missing values. 556 raws of data that includes cities with their maximum temperature, humidity, cloudiness and wind speed values. Data is retrieved on 01/19/2020.
